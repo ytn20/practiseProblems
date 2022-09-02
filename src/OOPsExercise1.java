@@ -6,9 +6,9 @@ public class OOPsExercise1 {
     }
 
     // eat method
-    public boolean eat() {
-
-    }
+//    public boolean eat() {
+//
+//    }
 
 
 

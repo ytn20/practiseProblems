@@ -5,7 +5,7 @@ public class Employee {
     private long empId;
     private String name;
 
-    public Employee(long empId, String name) {...}
+//    public Employee(long empId, String name) {...}
 
 //    public Employee(long empId) {this.empId = empId;}
 //
@@ -21,8 +21,8 @@ public class Employee {
 //        return empId == employee.empId;
 //    }
 
-    @Override
-    public String toString() {...}
+//    @Override
+//    public String toString() {...}
 
     public void login() {
         System.out.println("login at 9am");

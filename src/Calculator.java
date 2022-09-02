@@ -14,8 +14,10 @@ public class Calculator {
         y = 0.5 * (a*(t*t)) + (v*t) + x;
 
         System.out.println(y);
-    }
 
+        System.out.println("The object value is: " + y);
+
+    } // psvm
 
 // ------------------------------------------------------------------------
 
@@ -38,8 +40,5 @@ public class Calculator {
 //    public void div(String[] args) {
 //
 //    }
-
-
-
 
 }
