@@ -118,8 +118,7 @@ public class ArrayDemo {
 
         Arrays.toString(arr);
 
-
-
+        System.out.println(arr);
 
 
 // ------------------------------------------------------------------------
